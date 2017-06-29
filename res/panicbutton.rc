@@ -1,0 +1,14 @@
+﻿
+#include "winuser.h"
+
+CREATEPROCESS_MANIFEST_RESOURCE_ID RT_MANIFEST "PanicButton.manifest"
+2 ICON "icon/icon.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// FILE
+//
+
+104                     FILE                    "driver\\winpmem_x64.sys"
+105                     FILE                    "driver\\winpmem_x86.sys"
+// 106                     FILE                    "executable\\binaries\\fcat.exe"

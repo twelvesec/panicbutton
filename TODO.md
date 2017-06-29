@@ -1,0 +1,3 @@
+- [ ] Implement full error and state checking
+- [ ] Implement dll injection detection capabilities
+- [ ] Implement client-server model
