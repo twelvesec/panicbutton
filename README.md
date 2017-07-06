@@ -1,6 +1,8 @@
 # Panic Button
 
-The **Panic Button** is a windows application aiming to preserve cryptographic information used by ransomware operations.
+The **Panic Button** is a windows application aiming to preserve cryptographic information used by ransomware operations. If you suspect a ransomware is running on your pc, then hit the **Panic Button**! Panic Button will dump all of your memory (and potentially the encryption keys of the ransomware) to a file and hibernate your system. Then you should call the IT guys :)
+
+We recommend installing this program and executing a dry run, before you are affected... :|
 
 ## Getting Started
 
